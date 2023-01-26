@@ -1,1 +1,1 @@
-HBNB - The Console
+deploy static
